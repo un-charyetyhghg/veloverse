@@ -1,2 +1,0 @@
-# veloverse
-home trainer
